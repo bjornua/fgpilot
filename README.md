@@ -1,2 +1,2 @@
 # fgpilot
-A custom autopilot for the flight simulator softare "FlightGear"
+A custom autopilot for the flight simulator software "FlightGear"
