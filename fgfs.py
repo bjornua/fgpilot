@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-
-
 import protoxml
 import subprocess
 from common import mktmpfifos

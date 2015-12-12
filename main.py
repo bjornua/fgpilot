@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
-
 import fgfs
 
 
-
-def main():
+def main_fgfs():
     fg = fgfs.FlightGear()
     fg.start()
 
@@ -21,6 +19,10 @@ def main():
         fg.stop()
         raise
 
+import http
+def main_http():
+    http.main()
+
 
 if __name__ == '__main__':
-    main()
+    main_http()
