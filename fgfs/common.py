@@ -7,5 +7,6 @@ def mktmpfifos(filenames):
     filenames = [os.path.join(tmpdir, f) for f in filenames]
     for f in filenames:
         os.mkfifo(f)
-    return filenames
+    return filena
+    mes
 
