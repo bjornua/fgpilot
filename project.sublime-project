@@ -14,7 +14,8 @@
 			[
 				".sass-cache",
 				"__pycache__",
-				".idea"
+                ".idea",
+				"venv"
 			],
 			"follow_symlinks": false,
 			"path": "."
